@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32112.339
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Wise Quotes App", "Wise Quotes App\Wise Quotes App.csproj", "{B18B916C-51B7-4990-B809-4E4603DA045A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B18B916C-51B7-4990-B809-4E4603DA045A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B18B916C-51B7-4990-B809-4E4603DA045A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B18B916C-51B7-4990-B809-4E4603DA045A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B18B916C-51B7-4990-B809-4E4603DA045A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {42BB4833-774D-4690-B0EE-E32200283D21}
+	EndGlobalSection
+EndGlobal
